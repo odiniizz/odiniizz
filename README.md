@@ -9,6 +9,5 @@
 
 <div>
   <p> <img src="https://komarev.com/ghpvc/?username=odiniizz&color=red" alt="Profile views" /> </p>
-  <a href="https://www.instagram.com/odiniizz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href=mailto:jcesarddiniz05@gmail.com@odiniizz target="_blank"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
